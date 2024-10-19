@@ -1,15 +1,1 @@
-⭐ • Hi There I Am Herz.             
-🟢 • Beginner Node.JS Developer 
-🧑 • 13 Years Old
-🇨🇦 • Born In Canada
-
-[+ My Project +]
-
-- Whatsapp Bot's Development
-- Discord Bot's Development
-- Telegram Bot's Development
-
-🌐 Contant Me On Discord
-herzfnf_
-
-$ npm i nodejs
+![herzonly's Stats](https://github-readme-stats.vercel.app/api?username=herzonly&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
